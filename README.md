@@ -22,11 +22,11 @@ turning the DAPI settings towards the left and the Tubulin and Actin settings
 towards the right. This makes the image preprocessing easier. 
 
 # Image Information
-Website: https://idr.openmicroscopy.org/
-Public data file: idr0035-caie-drugresponse/screenA
-Subfile: Week3_25441, Field 1
-Treated: Well C3
-Untreated: Well C2
+- Website: https://idr.openmicroscopy.org/
+- Public data file: idr0035-caie-drugresponse/screenA
+- Subfile: Week3_25441, Field 1
+- Treated: Well C3
+- Untreated: Well C2
 
 ## Requirements
 - Python 3
